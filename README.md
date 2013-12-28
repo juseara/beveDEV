@@ -8,7 +8,7 @@ E se você é um programador Ninja, programa há vários anos, domina várias te
 
 Agora, se você está estudando em alguma faculdade de tecnologia, e está doido(a) para aplicar os conhecimentos que aprendeu lá e em outros lugares, essa vaga é pra você. 
 
-Estamos a procura de um estagiário com conhecimentos em Frontend e Ruby on Rails. Não é necessário ter experiência prévia em nenhuma outra empresa, mas precisa ter dado pelo menos um commit e db:migrate na vida :) Nem se foi, seguindo algum tutorial.
+Estamos a procura de um estagiário com conhecimentos em **Frontend e Ruby on Rails**. Não é necessário ter experiência prévia em nenhuma outra empresa, mas precisa ter dado pelo menos um commit e db:migrate na vida :) Nem se foi, seguindo algum tutorial.
 
 # Descrição da vaga:
 
